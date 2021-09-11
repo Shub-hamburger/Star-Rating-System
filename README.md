@@ -2,13 +2,13 @@
 Implementation of Star Rating System using HTML, CSS and JavaScript.
 
 ### Default State
-![Default State](/images/Default.PNG)
+![Default State](/images/Default.png)
 
 ### Hover State
-![Hover State](/images/Hover.PNG)
+![Hover State](/images/Hover.png)
 
 ### Clicked State
-![Clicked State](/images/Clicked.PNG)
+![Clicked State](/images/Clicked.png)
 
 ### Links
 
