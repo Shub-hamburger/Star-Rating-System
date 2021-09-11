@@ -1,12 +1,11 @@
-# Devkodeio - The DOM Challenge 
-
-This is a solution to the [Star Rating Widget Challenge on Devkode](https://github.com/devkodeio/the-dom-challenge/blob/main/star-rating/README.md). 
+# Star Rating System
+Implementation of Star Rating System using HTML, CSS and JavaScript.
 
 ### Default State
 ![Default State](/images/Default.PNG)
 
 ### Hover State
-![Hover State](/images/Hover.png)
+![Hover State](/images/Hover.PNG)
 
 ### Clicked State
 ![Clicked State](/images/Clicked.PNG)
