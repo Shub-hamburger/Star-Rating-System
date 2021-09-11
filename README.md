@@ -3,18 +3,18 @@
 This is a solution to the [Star Rating Widget Challenge on Devkode](https://github.com/devkodeio/the-dom-challenge/blob/main/star-rating/README.md). 
 
 ### Default State
-![Desktop View](/images/Default.PNG)
+![Default State](/images/Default.PNG)
 
 ### Hover State
-![Desktop View](/images/Hover.PNG)
+![Hover State](/images/Hover.png)
 
 ### Clicked State
-![Desktop View](/images/Clicked.PNG)
+![Clicked State](/images/Clicked.PNG)
 
 ### Links
 
-- Solution URL: [Repository here](https://github.com/Shub-hamburger/Order-Summary-Component)
-- Live Site URL: [Live here](https://shub-hamburger.github.io/Order-Summary-Component/)
+- Solution URL: [Repository here](https://github.com/Shub-hamburger/Star-Rating-System)
+- Live Site URL: [Live here](https://shub-hamburger.github.io/Star-Rating-System/)
 
 
 
